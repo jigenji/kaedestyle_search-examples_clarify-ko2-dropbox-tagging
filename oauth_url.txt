@@ -1,0 +1,1 @@
+https://www.dropbox.com/oauth2/authorize?response_type=code&client_id=p4i8sv8eey2kmx2&token_access_type=offline&scope=files.content.write+files.content.read+files.metadata.write+files.metadata.read+account_info.read
